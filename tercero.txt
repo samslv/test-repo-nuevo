@@ -9,3 +9,4 @@ branch2 5
 merge continue
 branch1 6
 branch2 7
+branch1 8
