@@ -1,1 +1,1 @@
-creado desde rama branch2 para GITLAB
+modificado desde rama branch2 para GITLAB
