@@ -7,3 +7,4 @@ branch2 3
 branch1 4
 branch2 5
 merge continue
+branch2 7
